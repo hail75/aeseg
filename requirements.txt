@@ -1,0 +1,11 @@
+albumentations==2.0.7
+einops==0.8.1
+gradio==5.30.0
+kagglehub
+numpy
+opencv-python
+pillow
+timm
+torch==2.5.1
+torchvision==0.20.1
+tqdm
